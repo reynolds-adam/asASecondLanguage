@@ -80,7 +80,7 @@ https://templatemo.com/tm-516-known
   }
 
   a:hover, a:active, a:focus {
-    color: #ed254e;
+    color: #f36e20;
     outline: none;
   }
 
@@ -258,7 +258,7 @@ https://templatemo.com/tm-516-known
 
   .custom-navbar {
     background: #ffffff;
-    border-top: 5px solid #ed254e;
+    border-top: 5px solid #f36e20;
     border-bottom: 0;
     -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -285,7 +285,7 @@ https://templatemo.com/tm-516-known
   }
 
   .custom-navbar .navbar-nav.navbar-right li a .fa {
-    background: #ed254e;
+    background: #f36e20;
     border-radius: 100%;
     color: #ffffff;
     width: 30px;
@@ -309,12 +309,12 @@ https://templatemo.com/tm-516-known
   }
 
   .custom-navbar .nav li a:hover {
-    background-color: #ed254e;
+    background-color: #f36e20;
     color: #ffffff;
   }
 
   .custom-navbar .nav li.active > a {
-    background-color: #ed254e;
+    background-color: #f36e20;
     color: #ffffff;
   }
 
@@ -444,7 +444,7 @@ https://templatemo.com/tm-516-known
   }
 
   #about figure span i {
-    background: #ed254e;
+    background: #f36e20;
     border-radius: 50px;
     color: #ffffff;
     font-size: 25px;
@@ -580,7 +580,7 @@ https://templatemo.com/tm-516-known
   }
 
   .courses-price span {
-    background: #ed254e;
+    background: #f36e20;
     border-radius: 2px;
     color: #ffffff;
     display: block;
@@ -814,7 +814,7 @@ https://templatemo.com/tm-516-known
   }
 
   .newsletter-form input[type="submit"]:hover {
-    background: #ed254e;
+    background: #f36e20;
     border-color: transparent;
   }
 
@@ -845,7 +845,7 @@ https://templatemo.com/tm-516-known
 
   .social-icon li a {
     border-radius: 100px;
-    color: #ed254e;
+    color: #f36e20;
     font-size: 15px;
     width: 35px;
     height: 35px;
@@ -858,7 +858,7 @@ https://templatemo.com/tm-516-known
   }
 
   .social-icon li a:hover {
-    background: #ed254e;
+    background: #f36e20;
     color: #ffffff;
   }
 
