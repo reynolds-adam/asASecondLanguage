@@ -1,0 +1,178 @@
+/* 
+Theme Name: Second Language Custom Theme
+Author: Madamanalory
+Description: Custom theme created for As a Second Language
+textdomain: secondlanguage
+*/
+
+body{
+    background: #d9d9d9;
+    color: white;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER */
+header {
+    background-color: #000000;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/hero.jpg");
+    background-size: 100%;
+    background-position:center;
+    height: 800px;
+    padding: 20px;
+    text-align: right;
+}
+
+header a {
+    color:#ffffff;
+    text decoration: none;
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+
+header .logo a {
+    background-image: url("images/logo_white.png");
+    background-size: 300px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 200px;
+    position: relative;
+    text-indent: -999999px;
+    top: -100px;
+    width: 300px;
+}
+
+/* left-aligned section inside the top navigation */
+.topnav-left {
+    float: left;
+    background: none;
+    display: inline-block;
+    margin-left: 30px;
+    border-radius: 3px;
+    padding: 0px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav li {
+    color: white;
+    display: inline-block;
+    margin-right: 30px;
+    border-radius: 3px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    }
+    
+    a:hover {
+        opacity: 50%;
+    }
+
+    .hero-text {
+        text-align: left;
+        background: none;
+        width: 500px;
+        position: absolute;
+        font-size: 30px;
+        font-family: sans-serif;
+        top: 70%;
+        left: 25%;
+        transform: translate(-50%, -50%);
+        color: white;
+      }
+
+      .hero-btn {
+        border: none;
+        background-color: #DDC76F;
+        color: #FFFFFF;
+        padding: 14px 28px;
+        font-size: 16px;
+        font-family: verdana;
+        cursor: pointer;
+        margin: 4px 2px;
+        opacity: 1;
+        transition: 0.3s;
+      }
+      
+      .hero-btn:hover {opacity: 0.6}
+
+/* FEATURES */
+
+.features {
+    background: #ffffff;
+    color: gray;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.features figure {
+    margin: auto;
+    text-align: center;
+    text-transform: uppercase;
+    width: 200px;
+}
+
+.features figure img {
+    border: 1px solid white;
+    border-radius: 50%;
+    box-shadow: gray 0 0 10px;
+    width: 200px;
+}
+
+section {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+div {
+    background-color: #ebf7e3;
+    display: inline-block;
+    margin: auto;
+    width: 100px;
+}
+
+.features div {
+    background: gray;
+}
+
+/* MISSION */
+
+.mission {
+    background-color: gray;
+    background-size: 100%;
+    background-position:center;
+    height: 400px;
+    padding: 20px;
+    text-align: center;
+}
+
+.mission-text {
+    background: none;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+    width: 1000px;
+}
+
+/* FOOTER */
+
+footer {
+    background: #000000;
+    padding: 20px 20px;
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+}
